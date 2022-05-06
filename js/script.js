@@ -7,6 +7,7 @@ var root = new Vue(
          el: '#root',
          data: {
              message:'Ciao a tutti!',
+             immagine:'img/boolean-e1626086189994.png',
          }
     }
 )
